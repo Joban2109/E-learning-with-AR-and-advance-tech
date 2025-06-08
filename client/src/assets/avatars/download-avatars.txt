@@ -1,0 +1,13 @@
+Need to add animal avatars:
+1. Dog
+2. Cat
+3. Fox
+4. Lion
+5. Panda
+6. Rabbit
+7. Koala
+8. Bear
+9. Tiger
+10. Owl
+11. Penguin
+12. Monkey
