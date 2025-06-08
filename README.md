@@ -1,3 +1,8 @@
+## Contributors
+
+- [@Joban2109](https://github.com/Joban2109)
+- [@Deba2373](https://github.com/Deba2373)
+
 # NeoLearn - E-Learning Platform
 
 NeoLearn is a full-stack e-learning platform with a modern UI, built using React for the frontend and Node.js/Express for the backend.
